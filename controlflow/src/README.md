@@ -36,3 +36,22 @@ do{} perform an action first then verify from the while() if it should continue 
 ## while loop
 
 while{} check first before performing and action in the first place
+
+## break
+
+this is called labelled break
+
+```java
+
+first:
+while(condition ){
+    ...
+    while(condition){
+        break first
+    }
+}
+```
+
+## continue
+
+it skip the current iteration of the loop(for,do while, while)
