@@ -2,8 +2,10 @@
 
 <https://www.programiz.com/java-programming/comments>
 
-[ ] Data Types
+[x] Data Types
 
-[ ] Operations
+[x] Operations
 
-[ ] Input and Output
+[x] Input and Output
+
+[x] Control flow
